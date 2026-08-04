@@ -5,6 +5,7 @@
       "win",
       "android",
       "mac",
+      "ios",
       "chromeos"
     ],
     "simple_policy_pref_mapping_test": {
